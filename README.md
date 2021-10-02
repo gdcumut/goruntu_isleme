@@ -1,4 +1,4 @@
-# goruntu_isleme
+# image_processing
 Opencv
 # Image manipulation
 # Spatial domain Smoothing, Sharpening Filter
