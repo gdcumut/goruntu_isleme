@@ -1,6 +1,10 @@
+# Image read, write, change colorspace
+# Line,square,circle drawing
+# Some other drawings
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
 #cv2.imread('',img)
 #cv2.imwrite()
+# 
