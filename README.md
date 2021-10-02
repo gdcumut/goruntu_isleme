@@ -9,4 +9,4 @@ Opencv
 # Feature Extraction
 # Optical Flow
 # Object Recognition
-# Intro to CNN
+# Image Processing With Artificial Intelligence
